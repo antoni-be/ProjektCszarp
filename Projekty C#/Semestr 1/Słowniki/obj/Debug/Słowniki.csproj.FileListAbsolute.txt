@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\bin\Debug\Słowniki.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\bin\Debug\Słowniki.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\bin\Debug\Słowniki.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\obj\Debug\Słowniki.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\obj\Debug\Słowniki.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\obj\Debug\Słowniki.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Słowniki\obj\Debug\Słowniki.pdb

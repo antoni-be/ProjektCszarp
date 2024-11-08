@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\bin\Debug\ListyCwiczenie.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\bin\Debug\ListyCwiczenie.exe
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\bin\Debug\ListyCwiczenie.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\obj\Debug\ListyCwiczenie.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\obj\Debug\ListyCwiczenie.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\obj\Debug\ListyCwiczenie.exe
+C:\Users\abelik\Projekty C#\Semestr 1\ListyCwiczenie\obj\Debug\ListyCwiczenie.pdb

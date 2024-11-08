@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119F4836-9824-43B2-A35F-860338B82363}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\abelik\\projekty c#\\semestr 1\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119F4836-9824-43B2-A35F-860338B82363}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B0EE9-0C64-4782-BE76-552B12F75D3A}|FormsSQL\\FormsSQL.csproj|c:\\users\\abelik\\projekty c#\\semestr 1\\formssql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20B0EE9-0C64-4782-BE76-552B12F75D3A}|FormsSQL\\FormsSQL.csproj|solutionrelative:formssql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20B0EE9-0C64-4782-BE76-552B12F75D3A}|FormsSQL\\FormsSQL.csproj|c:\\users\\abelik\\projekty c#\\semestr 1\\formssql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B20B0EE9-0C64-4782-BE76-552B12F75D3A}|FormsSQL\\FormsSQL.csproj|solutionrelative:formssql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254096DA-7F69-4680-8AF8-535F9CE91FAF}|FirstSQL\\FirstSQL.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\firstsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254096DA-7F69-4680-8AF8-535F9CE91FAF}|FirstSQL\\FirstSQL.csproj|solutionrelative:firstsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873CEF35-6663-482A-A963-02C06EAAFB3B}|ZadanieMetody2\\ZadanieMetody2.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\zadaniemetody2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873CEF35-6663-482A-A963-02C06EAAFB3B}|ZadanieMetody2\\ZadanieMetody2.csproj|solutionrelative:zadaniemetody2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902FB5CD-7609-4FBE-B306-5D824E6D9050}|ZadanieMetody1\\ZadanieMetody1.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\zadaniemetody1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902FB5CD-7609-4FBE-B306-5D824E6D9050}|ZadanieMetody1\\ZadanieMetody1.csproj|solutionrelative:zadaniemetody1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A10358D-A27D-4498-9BD3-3E6F06BB28D1}|ZadanieNaOcene\\ZadanieNaOcene.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\zadanienaocene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A10358D-A27D-4498-9BD3-3E6F06BB28D1}|ZadanieNaOcene\\ZadanieNaOcene.csproj|solutionrelative:zadanienaocene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF9EE58-CA0B-42C7-83AE-FA15DF21F48E}|Funkcje1\\Funkcje1.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\funkcje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF9EE58-CA0B-42C7-83AE-FA15DF21F48E}|Funkcje1\\Funkcje1.csproj|solutionrelative:funkcje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2895314-E134-4418-BDBB-10FF77098582}|ArraykiCwiczenie\\ArraykiCwiczenie.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\arraykicwiczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2895314-E134-4418-BDBB-10FF77098582}|ArraykiCwiczenie\\ArraykiCwiczenie.csproj|solutionrelative:arraykicwiczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92A91D5-8251-41C7-AB28-2CF85717D2F2}|Sprawdzenie Tr\u00F3jk\u0105ta\\Sprawdzenie Tr\u00F3jk\u0105ta.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\sprawdzenie tr\u00F3jk\u0105ta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92A91D5-8251-41C7-AB28-2CF85717D2F2}|Sprawdzenie Tr\u00F3jk\u0105ta\\Sprawdzenie Tr\u00F3jk\u0105ta.csproj|solutionrelative:sprawdzenie tr\u00F3jk\u0105ta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2160357-7E49-4F5D-B7ED-A687EFF4E840}|Czyszczenie Arrayki\\Czyszczenie Arrayki.csproj|C:\\Users\\abelik\\Projekty C#\\Semestr 1\\czyszczenie arrayki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2160357-7E49-4F5D-B7ED-A687EFF4E840}|Czyszczenie Arrayki\\Czyszczenie Arrayki.csproj|solutionrelative:czyszczenie arrayki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:58:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FormsSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsSQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FormsSQL\\Form1.cs",
+              "RelativeToolTip": "FormsSQL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:05:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FormsSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsSQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FormsSQL\\Form1.cs [Projekt]",
+              "RelativeToolTip": "FormsSQL\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:05:09.189Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FirstSQL\\Program.cs",
+              "RelativeDocumentMoniker": "FirstSQL\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\FirstSQL\\Program.cs",
+              "RelativeToolTip": "FirstSQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:30:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieMetody2\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieMetody2\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieMetody2\\Program.cs",
+              "RelativeToolTip": "ZadanieMetody2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:05:01.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieMetody1\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieMetody1\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieMetody1\\Program.cs",
+              "RelativeToolTip": "ZadanieMetody1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:41:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieNaOcene\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieNaOcene\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ZadanieNaOcene\\Program.cs",
+              "RelativeToolTip": "ZadanieNaOcene\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:48:41.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Funkcje1\\Program.cs",
+              "RelativeDocumentMoniker": "Funkcje1\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Funkcje1\\Program.cs",
+              "RelativeToolTip": "Funkcje1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:14:30.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Sprawdzenie Tr\u00F3jk\u0105ta\\Program.cs",
+              "RelativeDocumentMoniker": "Sprawdzenie Tr\u00F3jk\u0105ta\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Sprawdzenie Tr\u00F3jk\u0105ta\\Program.cs",
+              "RelativeToolTip": "Sprawdzenie Tr\u00F3jk\u0105ta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:08:20.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ArraykiCwiczenie\\Program.cs",
+              "RelativeDocumentMoniker": "ArraykiCwiczenie\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\ArraykiCwiczenie\\Program.cs",
+              "RelativeToolTip": "ArraykiCwiczenie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:57:51.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Czyszczenie Arrayki\\Program.cs",
+              "RelativeDocumentMoniker": "Czyszczenie Arrayki\\Program.cs",
+              "ToolTip": "C:\\Users\\abelik\\Projekty C#\\Semestr 1\\Czyszczenie Arrayki\\Program.cs",
+              "RelativeToolTip": "Czyszczenie Arrayki\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:21:17.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

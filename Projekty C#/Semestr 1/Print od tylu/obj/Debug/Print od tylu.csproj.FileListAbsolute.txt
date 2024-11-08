@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\bin\Debug\Print od tylu.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\bin\Debug\Print od tylu.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\bin\Debug\Print od tylu.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\obj\Debug\Print od tylu.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\obj\Debug\Print od tylu.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\obj\Debug\Print od tylu.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Print od tylu\obj\Debug\Print od tylu.pdb

@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Money\bin\Debug\Money.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Money\bin\Debug\Money.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Money\bin\Debug\Money.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Money\obj\Debug\Money.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Money\obj\Debug\Money.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Money\obj\Debug\Money.pdb

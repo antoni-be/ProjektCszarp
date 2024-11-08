@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\bin\Debug\ZadanieMetody1.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\bin\Debug\ZadanieMetody1.exe
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\bin\Debug\ZadanieMetody1.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\obj\Debug\ZadanieMetody1.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\obj\Debug\ZadanieMetody1.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\obj\Debug\ZadanieMetody1.exe
+C:\Users\abelik\Projekty C#\Semestr 1\ZadanieMetody1\obj\Debug\ZadanieMetody1.pdb

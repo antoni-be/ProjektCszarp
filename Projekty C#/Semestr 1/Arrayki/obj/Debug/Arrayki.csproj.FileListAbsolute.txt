@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\bin\Debug\Arrayki.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\bin\Debug\Arrayki.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\bin\Debug\Arrayki.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\obj\Debug\Arrayki.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\obj\Debug\Arrayki.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\obj\Debug\Arrayki.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Arrayki\obj\Debug\Arrayki.pdb

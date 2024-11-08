@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\bin\Debug\Print po znaku.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\bin\Debug\Print po znaku.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\bin\Debug\Print po znaku.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\obj\Debug\Print po znaku.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\obj\Debug\Print po znaku.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\obj\Debug\Print po znaku.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Print po znaku\obj\Debug\Print po znaku.pdb

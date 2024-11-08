@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\bin\Debug\Wyszukiwarka w Arrayce.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\bin\Debug\Wyszukiwarka w Arrayce.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\bin\Debug\Wyszukiwarka w Arrayce.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\obj\Debug\Wyszukiwarka w Arrayce.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\obj\Debug\Wyszukiwarka w Arrayce.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\obj\Debug\Wyszukiwarka w Arrayce.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Wyszukiwarka w Arrayce\obj\Debug\Wyszukiwarka w Arrayce.pdb

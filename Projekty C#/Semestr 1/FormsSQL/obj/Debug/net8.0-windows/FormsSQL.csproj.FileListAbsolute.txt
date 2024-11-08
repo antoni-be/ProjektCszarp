@@ -1,0 +1,16 @@
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\bin\Debug\net8.0-windows\FormsSQL.exe
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\bin\Debug\net8.0-windows\FormsSQL.deps.json
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\bin\Debug\net8.0-windows\FormsSQL.runtimeconfig.json
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\bin\Debug\net8.0-windows\FormsSQL.dll
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\bin\Debug\net8.0-windows\FormsSQL.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.Form1.resources
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.csproj.GenerateResource.cache
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.AssemblyInfoInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.AssemblyInfo.cs
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.dll
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\refint\FormsSQL.dll
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\FormsSQL.genruntimeconfig.cache
+C:\Users\abelik\Projekty C#\Semestr 1\FormsSQL\obj\Debug\net8.0-windows\ref\FormsSQL.dll

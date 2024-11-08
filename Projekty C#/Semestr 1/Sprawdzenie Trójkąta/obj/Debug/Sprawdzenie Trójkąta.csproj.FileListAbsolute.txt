@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\bin\Debug\Sprawdzenie Trójkąta.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\bin\Debug\Sprawdzenie Trójkąta.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\bin\Debug\Sprawdzenie Trójkąta.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\obj\Debug\Sprawdzenie Trójkąta.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\obj\Debug\Sprawdzenie Trójkąta.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\obj\Debug\Sprawdzenie Trójkąta.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Sprawdzenie Trójkąta\obj\Debug\Sprawdzenie Trójkąta.pdb

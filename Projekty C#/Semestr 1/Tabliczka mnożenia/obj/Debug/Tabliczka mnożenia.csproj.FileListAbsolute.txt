@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\bin\Debug\Tabliczka mnożenia.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Tabliczka mnożenia\obj\Debug\Tabliczka mnożenia.pdb

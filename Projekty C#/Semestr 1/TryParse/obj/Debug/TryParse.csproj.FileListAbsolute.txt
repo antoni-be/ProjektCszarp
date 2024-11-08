@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\bin\Debug\TryParse.exe
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\bin\Debug\TryParse.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\obj\Debug\TryParse.exe
+C:\Users\abelik\Projekty C#\Semestr 1\TryParse\obj\Debug\TryParse.pdb

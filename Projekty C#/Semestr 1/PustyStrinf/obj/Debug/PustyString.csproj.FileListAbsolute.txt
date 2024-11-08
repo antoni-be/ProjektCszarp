@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\obj\Debug\PustyString.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\obj\Debug\PustyString.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\bin\Debug\PustyStrinf.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\bin\Debug\PustyStrinf.exe
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\bin\Debug\PustyStrinf.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\obj\Debug\PustyStrinf.exe
+C:\Users\abelik\Projekty C#\Semestr 1\PustyStrinf\obj\Debug\PustyStrinf.pdb

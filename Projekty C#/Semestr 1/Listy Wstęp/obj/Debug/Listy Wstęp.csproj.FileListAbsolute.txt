@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\bin\Debug\Listy Wstęp.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\bin\Debug\Listy Wstęp.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\bin\Debug\Listy Wstęp.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\obj\Debug\Listy Wstęp.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\obj\Debug\Listy Wstęp.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\obj\Debug\Listy Wstęp.exe
+C:\Users\abelik\Projekty C#\Semestr 1\Listy Wstęp\obj\Debug\Listy Wstęp.pdb

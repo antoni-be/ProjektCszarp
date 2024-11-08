@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.exe
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.exe
+C:\Users\abelik\Projekty C#\Semestr 1\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.pdb

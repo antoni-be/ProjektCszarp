@@ -1,0 +1,7 @@
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\bin\Debug\SortowanieArrayek.exe.config
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\bin\Debug\SortowanieArrayek.exe
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\bin\Debug\SortowanieArrayek.pdb
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\obj\Debug\SortowanieArrayek.csproj.AssemblyReference.cache
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\obj\Debug\SortowanieArrayek.csproj.CoreCompileInputs.cache
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\obj\Debug\SortowanieArrayek.exe
+C:\Users\abelik\Projekty C#\Semestr 1\SortowanieArrayek\obj\Debug\SortowanieArrayek.pdb
